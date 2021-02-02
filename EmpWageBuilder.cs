@@ -2,7 +2,7 @@
 
 namespace EmpWageBuilder
 {
-    class Program
+    class EmpWageBuilder
     {
         /// <summary>
         /// 
